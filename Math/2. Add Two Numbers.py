@@ -1,5 +1,5 @@
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    def addTwoNumbers(self, l1,l2):
         dummy = ListNode()
         curr = dummy
         carry = 0
