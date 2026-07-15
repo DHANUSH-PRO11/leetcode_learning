@@ -1,5 +1,5 @@
 class Solution:
-    def nextPermutation(self, nums: lgitist[int]) -> None:
+    def nextPermutation(self, nums: list[int]) -> None:
 
         i = len(nums) - 2
 
